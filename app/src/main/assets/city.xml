@@ -1,0 +1,17 @@
+<?xml version="1.0"  ?>
+<records>
+    <place>
+        <cityName>Mysore</cityName>
+        <latitude>96.95</latitude>
+        <longitude>76.63</longitude>
+        <temperature>22</temperature>
+        <humidity>90%</humidity>
+    </place>
+    <place>
+        <cityName>Bangalore</cityName>
+        <latitude>96.95</latitude>
+        <longitude>76.63</longitude>
+        <temperature>22</temperature>
+        <humidity>90%</humidity>
+    </place>
+</records>

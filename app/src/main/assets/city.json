@@ -1,0 +1,16 @@
+[
+  {
+    "name" : "Mysore",
+    "latitude" : "96.95",
+    "longitude" : "76.63",
+    "temperature" : "22",
+    "humidity" : "90%"
+  },
+  {
+    "name" : "Bangalore",
+    "latitude" : "96.95",
+    "longitude" : "76.63",
+    "temperature" : "22",
+    "humidity" : "90%"
+  }
+]
